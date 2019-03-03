@@ -1,5 +1,5 @@
 # short-url
-localhost:8080/index
+http://192.168.0.107:8080/index
 > From Long URL to Short URL
 
 ## Build Setup
